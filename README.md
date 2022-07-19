@@ -1,2 +1,2 @@
 # LayoutProjectGolang
-clean architect: ddd + cors + golang-standards/project-layout
+clean architect: ddd + cqrs + golang-standards/project-layout
